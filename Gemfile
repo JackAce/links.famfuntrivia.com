@@ -12,7 +12,7 @@ source "http://rubygems.org"
 
 # gem "jekyll"
 gem "jekyll", "~> 4.3.4"
-gem "thin"
+# gem "thin"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 

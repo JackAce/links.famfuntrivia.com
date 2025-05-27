@@ -1,12 +1,12 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: JackAce
-title: JackAce Links
+name: Family Fun Trivia
+title: Family Fun Trivia Links
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Gambler, Engineer, Hip Hop Connoisseur
+tagline: Kid-Friendly Trivia Content
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://avatars.githubusercontent.com/u/1430137?v=4
+Image_URL: https://links.famfuntrivia.com/assets/images/fft-logo-v2-1024x1024.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
@@ -18,10 +18,31 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
   # JackAce web site
-  - Name: JackAce's Web Site
-    URL: https://www.jackace.com
+  - Name: Family Fun Trivia Web Site
+    URL: https://www.famfuntrivia.com
     Icon-Class: fas fa-link
     Color: '#222222'
+    Text_Color: '#ffffff'
+
+    # YOUTUBE
+  - Name: Family Fun Trivia YouTube
+    URL: https://www.youtube.com
+    Username: /@FamFunTrivia
+    Color: '#ff0000'
+    Icon-Class: fab fa-youtube
+
+     # PATREON
+  - Name: Patreon
+    URL: https://www.patreon.com
+    Username: FamilyFunTrivia
+    Color: '#FE2C55'
+    Icon-Class: fab fa-patreon
+
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:suggestions@famfuntrivia.com'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
     Text_Color: '#ffffff'
 
     # SHOP
@@ -30,180 +51,8 @@ links:
     Color: '#055fa8'
     Icon-Class: fas fa-shopping-cart
 
-    # YOUTUBE
-  - Name: JackAce YouTube
-    URL: https://www.youtube.com
-    Username: \@JackAceDotCom
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
-
-    # YOUTUBE
-  - Name: JackAce Tech YouTube
-    URL: https://www.youtube.com
-    Username: \@JackAceTech
-    Color: '#064055'
-    Icon-Class: fab fa-youtube
-
-     # TIKTOK
-  - Name: TikTok
-    URL: https://www.tiktok.com
-    Username: \@jackace.com
-    Color: '#FE2C55'
-    Icon-Class: fab fa-tiktok
-
-    # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: jackacedotcom
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
-
-    # TWITTER
-  # - Name: Twitter (X.com)
-  #   URL: https://twitter.com
-  #   Username: JackAce
-  #   Color: '#1DA1F2'
-  #   Icon-Class: fab fa-twitter
-
-  - Name: BlueSky
-    URL: https://bsky.app/profile
-    Username: jackace.com
-    Color: '#397df8'
-    Icon-Class: fa-brands fa-bluesky
-
-    # Kick
-  - Name: Kick
-    URL: https://kick.com
-    Username: jackacedotcom
-    Color: '#87f950'
-    Icon-Class: fab fa-kickstarter-k
-
-    # LINKEDIN
-  # - Name: LinkedIn
-    # URL: https://www.linkedin.com/in
-    # Username: JackAce
-    # Color: '#2867B2'
-    # Icon-Class: fab fa-linkedin-in
-    # fa-sharp fa-solid fa-cart-shopping
-
-     # PATREON
-  - Name: Patreon
-    URL: https://www.patreon.com
-    Username: jackace
-    Color: '#FE2C55'
-    Icon-Class: fab fa-patreon
-
-    # GITHUB
-  # - Name: GitHub
-  #   URL: http://github.com
-  #   Username: JackAce
-  #   Color: '#6e5494'
-  #   Icon-Class: fab fa-github
-
-    # WordPress
-  # - Name: WordPress.org
-  #   URL: 'https://profiles.wordpress.org'
-  #   Username: jackace
-  #   Icon-Class: fa-brands fa-wordpress-simple
-  #   Color: '#0073AA'
-  #   Text_Color: '#ffffff'
-
-    # DISCORD
-  - Name: Discord
-    URL: 'https://discord.gg'
-    Username: R6nTPzcpma
-    Icon-Class: fab fa-discord
-    Color: '#5865F2'
-    Text_Color: '#ffffff'
-
-    # TWITCH
-  - Name: Twitch
-    URL: 'https://twitch.tv'
-    Username: jackacedotcom
-    Icon-Class: fab fa-twitch
-    Color: '#9147fe'
-    Text_Color: '#ffffff'
-
-    # MASTODON
-  - Name: Mastodon
-    URL: 'https://hachyderm.io'
-    Username: '@JackAce'
-    Icon-Class: fab fa-mastodon
-    Color: '#6364f6'
-    Text_Color: '#ffffff'
-
-    # SOUNDCLOUD
-  - Name: SoundCloud
-    URL: https://www.soundcloud.com
-    Username: jackacestudios
-    Color: '#FE5000'
-    Icon-Class: fab fa-soundcloud
-
-    # Amazon Influencer
-  - Name: Amazon Store
-    URL: https://www.amazon.com/shop
-    Username: jackace
-    Color: '#f29825'
-    Icon-Class: fab fa-amazon
-
-  # Wordle Solver
-  - Name: JackAce Wordle Solver
-    URL: https://www.jackace.com/games/wordle/solver
-    Icon-Class: fab fa-sticker-mule
-    Color: '#333333'
-    Text_Color: '#ffffff'
-
-  # TipiT
-  - Name: TipiT - Palindromic Tip Calculator
-    URL: https://tipit.jackace.com
-    Icon-Class: fab fa-sticker-mule
-    Color: '#e99536'
-    Text_Color: '#ffffff'
-
-  # Lotto EV Calculator
-  - Name: Lotto EV Calcualtor
-    URL: https://lottoev.jackace.com
-    Icon-Class: fab fa-sticker-mule
-    Color: '#111161'
-    Text_Color: '#ffffff'
-
-  # Roulette Bet Analyzer
-  - Name: Roulette Bet Analyzer
-    URL: https://rba.jackace.com
-    Icon-Class: fab fa-sticker-mule
-    Color: '#1c6603'
-    Text_Color: '#ffffff'
-
-  # Roulette System Submission
-  - Name: Submit your Roulette System!
-    URL: https://www.jackace.com/gambling/roulette/systems/submit
-    Icon-Class: fab fa-sticker-mule
-    Color: '#5c317c'
-    Text_Color: '#ffffff'
-
-  - Name: Blackjack Simplified Basic Strategy
-    URL: 'https://shop.jackace.com/products/100-plastic-blackjack-strategy-cards-simplified-basic-strategy-free-shipping'
-    Username: 
-    Icon-Class: fas fa-shopping-cart
-    Color: '#439142'
-    Text_Color: '#ffffff'
-
-  # Deposit Crypto and Play!
-  - Name: Live Dealer Roulette at Stake.us!
-    URL: https://stake.us/?c=JackAce
-    Icon-Class: fa-solid fa-coins
-    Color: '#99ff99'
-    Text_Color: '#333333'
-
-    # EMAIL
-  # - Name: Email
-  #   URL: 'mailto:jackace@jackace.com'
-  #   Icon-Class: fas fa-envelope
-  #   Color: '#e17055'
-  #   Text_Color: '#ffffff'
-
   - Name: Links
-    URL: https://github.com/JackAce/links.jackace.com
+    URL: https://github.com/JackAce/links.famfuntrivia.com
     Icon-Class: fas fa-link
     Color: '#d94869'
     Text_Color: '#ffffff'
@@ -211,10 +60,9 @@ links:
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
 
-google_analytics: G-Q93BTYSCS6
-#google_adsense: ca-pub-5831288475713424
+#google_analytics: G-Q93BTYSCS6
 
-port: 4088
+port: 4099
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
