@@ -60,8 +60,10 @@ links:
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
 
-#google_analytics: G-Q93BTYSCS6
+google_analytics: G-JH0NSKP8H8
 
+# fixes "No GitHub API authentication" error
+github: [metadata]
 port: 4099
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
