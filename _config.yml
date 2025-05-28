@@ -2,6 +2,9 @@
 name: Family Fun Trivia
 title: Family Fun Trivia Links
 
+url: "https://links.famfuntrivia.com"
+repository: JackAce/links.famfuntrivia.com
+
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: Kid-Friendly Trivia Content
 
@@ -62,8 +65,6 @@ footer: 'No'
 
 google_analytics: G-JH0NSKP8H8
 
-# fixes "No GitHub API authentication" error
-github: [metadata]
 port: 4099
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
@@ -100,3 +101,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-include-cache
+
+# fixes "No GitHub API authentication" error
+github: [metadata]
