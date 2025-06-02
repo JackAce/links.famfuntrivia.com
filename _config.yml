@@ -15,23 +15,20 @@ Image_URL: https://links.famfuntrivia.com/assets/images/fft-logo-v2-1024x1024.pn
 Cover_Image: https://picsum.photos/1080?nocache=
 # Cover_Image: /assets/images/jackace-background-5120x1440.png
 
-# SOCIAL MEDIA
+# Social Media Links
 links:
-
-  # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
-    
   # JackAce web site
   - Name: Family Fun Trivia Web Site
     URL: https://www.famfuntrivia.com
     Icon-Class: fas fa-link
-    Color: '#222222'
-    Text_Color: '#ffffff'
+    Color: '#3383c0'
+    Text_Color: '#fff'
 
     # YOUTUBE
   - Name: Family Fun Trivia YouTube
     URL: https://www.youtube.com
     Username: /@FamFunTrivia
-    Color: '#ff0000'
+    Color: '#f00'
     Icon-Class: fab fa-youtube
 
      # PATREON
@@ -46,26 +43,27 @@ links:
     URL: 'mailto:suggestions@famfuntrivia.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
-    Text_Color: '#ffffff'
+    Text_Color: '#fff'
 
     # SHOP
   - Name: The JackAce Store
-    URL: https://shop.jackace.com
+    URL: https://shop.jackace.com/collections/kid-friendly
     Color: '#055fa8'
     Icon-Class: fas fa-shopping-cart
 
-  - Name: Links
+  - Name: Links (Source Code)
     URL: https://github.com/JackAce/links.famfuntrivia.com
     Icon-Class: fas fa-link
     Color: '#d94869'
-    Text_Color: '#ffffff'
+    Text_Color: '#fff'
 
-# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
+# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES
+# OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
 
 google_analytics: G-JH0NSKP8H8
 
-port: 4099
+port: 4099 # local development port
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
@@ -86,9 +84,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - Icon
-
-# Base URL
-# baseurl: /links
 
 # Default Markdown Engine
 markdown: kramdown
