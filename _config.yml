@@ -25,11 +25,18 @@ links:
     Text_Color: '#fff'
 
     # YOUTUBE
-  - Name: Family Fun Trivia YouTube
+  - Name: YouTube
     URL: https://www.youtube.com
     Username: /@FamFunTrivia
     Color: '#f00'
     Icon-Class: fab fa-youtube
+
+    # SPOTIFY
+  - Name: Spotify Podcasts
+    URL: https://open.spotify.com/show
+    Username: 0VhK8a53LuYi2h9er9E48r?si=ZP4PLZojScy7LViYuSBFJg
+    Color: '#1ad761'
+    Icon-Class: fab fa-brands fa-spotify
 
      # PATREON
   - Name: Patreon
