@@ -38,6 +38,13 @@ links:
     Color: '#1ad761'
     Icon-Class: fab fa-brands fa-spotify
 
+    # Apple Podcasts
+  - Name: Apple Podcasts
+    URL: https://podcasts.apple.com/us/podcast/family-fun-trivia
+    Username: id1834272891
+    Color: '#b151e4'
+    Icon-Class: fa-solid fa-podcast
+
      # PATREON
   - Name: Patreon
     URL: https://www.patreon.com
